@@ -4,4 +4,4 @@
 
 @After the click starts, the app plays dynamic music, which helps you keep the rhythm and breathing of the movement.
 
-![image]() ![image]()
+![image](https://github.com/lallypegi/Boosfit/blob/master/2.png?raw=true) ![image](https://github.com/lallypegi/Boosfit/blob/master/1.png?raw=true)
